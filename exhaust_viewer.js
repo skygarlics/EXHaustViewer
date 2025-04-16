@@ -1,4 +1,4 @@
-class EXHaustViewer {
+export class EXHaustViewer {
     // Viewer elements
     iframe = null;
     iframe_jq = null;
